@@ -17,12 +17,6 @@ It allows users to design workflows using nodes, connect them visually, and test
 
 ---
 
-## 📸 Workflow Preview
-
-![Workflow](./assets/workflow.png)
-
----
-
 ## 🚀 Features
 
 - Create workflows using **drag-and-drop nodes**
@@ -37,23 +31,23 @@ It allows users to design workflows using nodes, connect them visually, and test
 
 ## 🧩 Node Types
 
-- 🟢 **Start Node**
+- **Start Node**
   - Entry point of workflow
   - No incoming connections
 
-- 📋 **Task Node**
+- **Task Node**
   - Assign tasks to users
   - Includes due date and metadata
 
-- ✅ **Approval Node**
+- **Approval Node**
   - Requires approval from a role/user
   - Supports auto-approval conditions
 
-- ⚙️ **Action Node (Automated)**
+- **Action Node (Automated)**
   - Executes automated actions
   - Dynamic fields based on API
 
-- 🔴 **End Node**
+- **End Node**
   - Marks workflow completion
   - Can include summary output
 
@@ -108,4 +102,5 @@ npm install
 
 # Start development server
 npm run dev
+
 Open 👉 http://localhost:5173
