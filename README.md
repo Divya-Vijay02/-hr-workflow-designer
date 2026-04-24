@@ -2,7 +2,7 @@
 
 ### Tredence Studio — Full Stack Engineering Intern Case Study
 
-This project is a **visual workflow builder** designed to create, configure, and simulate **HR workflows**.  
+This project is a **visual workflow builder** designed to create, configure, and simulate HR processes like **Employee Onboarding**..  
 It allows users to design workflows using nodes, connect them visually, and test execution through simulation.
 
 ---
@@ -17,15 +17,21 @@ It allows users to design workflows using nodes, connect them visually, and test
 
 ---
 
+## 📸 Workflow Preview
+
+![Workflow](./assets/workflow.png)
+
+---
+
 ## 🚀 Features
 
-- 🧱 Create workflows using **drag-and-drop nodes**
-- 🔗 Connect workflow steps visually using edges
-- ⚙️ Configure each node dynamically (Task, Approval, Automation)
-- ▶️ Run simulation to validate workflow logic
-- 📊 Step-by-step execution visualization
-- 💾 Export and import workflow as JSON
-- 🎯 Visual feedback for errors and execution
+- Create workflows using **drag-and-drop nodes**
+- Connect workflow steps visually using edges
+- Configure each node dynamically (Task, Approval, Automation)
+- Run simulation to validate workflow logic
+- Step-by-step execution visualization
+- Export and import workflow as JSON
+- Visual feedback for errors and execution
 
 ---
 
@@ -55,14 +61,14 @@ It allows users to design workflows using nodes, connect them visually, and test
 
 ## 🔁 Simulation
 
-- ✔️ Validates workflow structure:
+- Validates workflow structure:
   - Missing Start/End nodes
   - Disconnected nodes
   - Cycles (loops)
 
-- 🔄 Executes workflow in correct order
-- ✨ Highlights active nodes during execution
-- 📍 Displays execution trace step-by-step
+- Executes workflow in correct order
+- Highlights active nodes during execution
+- Displays execution trace step-by-step
 
 ---
 
@@ -75,13 +81,22 @@ It allows users to design workflows using nodes, connect them visually, and test
 
 ---
 
+## 🧠 Core Logic
+
+- Uses **graph-based workflow execution**
+- Implements **Topological Sorting (Kahn’s Algorithm)**
+- Ensures correct execution order
+- Detects errors efficiently
+
+---
+
 ## 🛠 Tech Stack
 
-- ⚛️ React 18  
-- ⚡ Vite  
-- 🔀 React Flow (for node-based UI)  
-- 🧠 Custom Hooks (state management)  
-- 🧪 Mock API (in-memory simulation)
+- React 18  
+- Vite  
+- React Flow (for node-based UI)  
+- Custom Hooks (state management)  
+- Mock API (in-memory simulation)
 
 ---
 
@@ -93,3 +108,4 @@ npm install
 
 # Start development server
 npm run dev
+Open 👉 http://localhost:5173
