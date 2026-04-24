@@ -7,13 +7,13 @@ It allows users to design workflows using nodes, connect them visually, and test
 
 ---
 
-## ■ 🌐 Live Demo
-■ [Click here to run live](https://stackblitz.com/~/github.com/Divya-Vijay02/-hr-workflow-designer?file=src/App.jsx)
+## 🌐 Live Demo
+[Click here to run live](https://stackblitz.com/~/github.com/Divya-Vijay02/-hr-workflow-designer?file=src/App.jsx)
 
 ---
 
-## ■ 📦 Repository
-■ [View Source Code](https://github.com/Divya-Vijay02/-hr-workflow-designer/tree/main)
+## 📦 Repository
+[View Source Code](https://github.com/Divya-Vijay02/-hr-workflow-designer/tree/main)
 
 ---
 
