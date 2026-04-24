@@ -1,5 +1,5 @@
-#🚀HR Workflow Designer
-### Tredence Studio — Full Stack Engineering Intern Case Study
+###🚀HR Workflow Designer
+###Tredence Studio — Full Stack Engineering Intern Case Study
 Author: Divya | VIT University Vellore
 Stack: React 18 · React Flow · Vite · Mock API
 
@@ -8,7 +8,7 @@ Stack: React 18 · React Flow · Vite · Mock API
 ## ■ Repository
 ■ [View Source Code](https://github.com/Divya-Vijay02/-hr-workflow-designer/tree/main)
 
-#🧠Project Overview
+##🧠Project Overview
 The HR Workflow Designer is an interactive visual tool that allows users to design, configure, and simulate HR workflows using a node-based interface.
 It supports
 - Workflow creation using drag-and-drop nodes
@@ -16,29 +16,29 @@ It supports
 - Simulation with execution tracing
 - Graph validation using advanced algorithms
 
-#🛠️ Tech Stack
+##🛠️ Tech Stack
 ⚛️ React 18
 🔀 React Flow
 ⚡ Vite
 🧪 Mock API 
 
-#▶️ How to Run the Project
-# 1. Create project using Vite
+##▶️ How to Run the Project
+1. Create project using Vite
 npm create vite@latest hr-workflow-designer -- --template react
 
-# 2. Navigate into project
+2. Navigate into project
 cd hr-workflow-designer
 
-# 3. Install dependencies
+3. Install dependencies
 npm install reactflow
 
-# 4. Replace App.jsx with HRWorkflowDesigner.jsx
+4. Replace App.jsx with HRWorkflowDesigner.jsx
 
-# 5. Start development server
+5. Start development server
 npm run dev
 Open 👉 http://localhost:5173
 
-#📂 Project Architecture
+##📂 Project Architecture
 src/
 ├── App.jsx                  # Root component (layout + orchestration)
 
