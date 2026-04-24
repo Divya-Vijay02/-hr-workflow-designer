@@ -8,12 +8,13 @@ Stack: React 18 · React Flow · Vite · Mock API (in-memory)
 ■ [Click here to run live](https://stackblitz.com/~/github.com/Divya-Vijay02/-hr-workflow-designer?file=src/App.jsx)
 ## ■ Repository
 ■ [View Source Code](https://github.com/Divya-Vijay02/-hr-workflow-designer/tree/main)
+
 How to Run
-# 1. Scaffold npm create vite@latest hr-workflow-designer -- --template react cd hr-workflow-designer
-# 2. Install dependencies npm install reactflow
-# 3. Replace src/App.jsx with HRWorkflowDesigner.jsx
-# 4. Add Google Fonts to index.html (already loaded via @import in component)
-# 5. Start npm run dev
+1. Scaffold npm create vite@latest hr-workflow-designer -- --template react cd hr-workflow-designer
+2. Install dependencies npm install reactflow
+3. Replace src/App.jsx with HRWorkflowDesigner.jsx
+4. Add Google Fonts to index.html (already loaded via @import in component)
+5. Start npm run dev
 Open http://localhost:5173
 
 Architecture
