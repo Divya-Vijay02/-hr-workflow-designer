@@ -1,3 +1,10 @@
+# HR Workflow Designer
+### Tredence Studio — Full Stack Engineering Intern Case Study
+## ■ Live Demo
+■ [Click here to run live](https://stackblitz.com/~/github.com/Divya-Vijay02/-hr-workflow-designer?file=src/App.jsx)
+## ■ Repository
+■ [View Source Code](https://github.com/YOURNAME/hr-workflow-designer)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
